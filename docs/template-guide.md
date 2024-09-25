@@ -71,6 +71,7 @@ Our SDLC process, guided by OKRs, typically follows these steps:
 For more detailed information on specific aspects of our OKR-based SDLC approach, please refer to the following documents:
 
 1. [Timeframes and Milestones](timeframes-and-milestones.md): Detailed explanation of how we structure our development cycles.
-2. [Guide: Using the OKR Template with LLM Tools](template-guide.md): A template for creating effective OKRs.
+2. [OKR Template](../templates/okr.md): A template for creating effective OKRs.
+3. [Contributing Guidelines](../CONTRIBUTING.md): Information on how to contribute to this guide and our SDLC process.
 
 If you have any questions or need further clarification on any aspect of our OKR-based SDLC, please don't hesitate to reach out to the team lead or open an issue in this repository.

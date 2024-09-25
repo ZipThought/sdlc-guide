@@ -53,14 +53,14 @@ Present the OKRs using the following markdown template:
 [Add more objectives as needed]
 ```
 
-#### 5. Iteration Process:
+### 5. Iteration Process:
 After generating the initial OKRs, review them critically and make improvements:
 - Ensure objectives are ambitious yet achievable.
 - Verify that key results are specific, measurable, and aligned with their respective objectives.
 - Check that the OKRs align with the provided context and additional details.
 - Refine the language for clarity and impact.
 
-#### 6. Final Output:
+### 6. Final Output:
 Present your final OKRs using the markdown template provided above within the <okr> tag. Ensure all sections are completed, including the context and timeline.
 
 Begin the OKR generation process now, using the provided inputs and following these instructions carefully. If you need any clarification or additional information, please ask before proceeding with the OKR generation.

@@ -9,7 +9,8 @@ Welcome to the Software Development Life Cycle (SDLC) Guide repository. This gui
 3. [Key Documents](#key-documents)
 4. [Getting Started](#getting-started)
 5. [Contributing](#contributing)
-6. [License](#license)
+6. [Referencing Guide](#referencing-guide)
+7. [License](#license)
 
 ## Introduction
 
@@ -48,6 +49,22 @@ We encourage all team members to contribute to this guide. Whether you've found 
 
 Please read the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute to this repository.
 
+## Referencing Guide
+
+This project use IEEE referencing style [[1]](#references). When referencing external sources or citing research in our documentation:
+
+1. Use inline citations with a number in square brackets, e.g., [1].
+2. Include a "References" section at the end of the document.
+3. List references in order of appearance, using a consistent format:
+   - For academic papers: Author(s), "Title," Journal, vol., no., pp., year, DOI (if available).
+   - For books: Author(s), "Title," Edition (if not first), Publisher, Year.
+   - For websites: Author(s) (if available), "Page Title," Website Name, URL (accessed date).
+4. When possible, include DOIs or stable URLs for online resources.
+
+Example:
+
+[1] P. Serrador and R. Turner, "What is Enough Planning? Results From a Global Quantitative Study," IEEE Trans. Eng. Manage., vol. 62, no. 4, pp. 462–474, Nov. 2015, doi: 10.1109/TEM.2015.2448059.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -57,3 +74,6 @@ This project is licensed under the [MIT License](LICENSE).
 We hope this guide helps you understand and implement our SDLC process effectively. If you have any questions or need clarification on any aspect of this guide, please don't hesitate to reach out to the team lead or open an issue in this repository.
 
 Happy developing!
+
+## References
+[1] “IEEE REFERENCE GUIDE.” Available: http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf

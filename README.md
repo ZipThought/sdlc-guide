@@ -35,13 +35,15 @@ Here are the main documents that form the core of our SDLC guide:
 
 1. [Introduction to OKR-Based SDLC](docs/introduction.md)
 2. [Timeframes and Milestones](docs/timeframes-and-milestones.md)
-3. [Contributing Guidelines](CONTRIBUTING.md)
+3. [Why OKRs](docs/why-okr.md)
+4. [Contributing Guidelines](CONTRIBUTING.md)
 
 ## Getting Started
 
 1. Start by reading the [Introduction to OKR-Based SDLC](docs/introduction.md) for an overview of our methodology.
 2. Review the [Timeframes and Milestones](docs/timeframes-and-milestones.md) document to understand how we structure our development cycles.
-3. If you're planning to contribute to this guide or any projects using this methodology, please read our [Contributing Guidelines](CONTRIBUTING.md).
+3. Dive deeper into the concept of OKRs by reading [Why OKRs](docs/why-okr.md).
+4. If you're planning to contribute to this guide or any projects using this methodology, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Contributing
 

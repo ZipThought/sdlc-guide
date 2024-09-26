@@ -42,7 +42,7 @@ Here's how you might use the template with Anthropic's Console:
 <name>ZipThought Engineering Team</name>
 <level>Team</level>
 <context>ZipThought is a SaaS company developing a collaborative project management tool. The engineering team is responsible for backend infrastructure and API development.</context>
-<related>Product Team OKR: Increase user engagement by 25% this quarter</related>
+<related_okrs>Product Team OKR: Increase user engagement by 25% this quarter</related_okrs>
 <rough_ideas>Improve API performance, enhance scalability, implement new features</rough_ideas>
 <additional_details>We have a major product release planned for the end of the quarter. The team consists of 5 backend engineers.</additional_details>
 ```

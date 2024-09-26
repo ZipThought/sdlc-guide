@@ -9,7 +9,7 @@ This indicates the scope of the OKRs (e.g., company, product, team, or individua
 <context>{{CONTEXT}}</context>
 This provides information about the product, team, or individual for which the OKRs are being created.
 
-<related>{{RELATED_OKRS}}</related>
+<related_okrs>{{RELATED_OKRS}}</related_okrs>
 This contains related OKRs from the peer teams or individuals to ensure alignment.
 
 <rough_ideas>{{ROUGH_IDEAS}}</rough_ideas>

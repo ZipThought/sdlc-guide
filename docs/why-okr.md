@@ -50,6 +50,12 @@ OKRs shift the focus from outputs to outcomes. They provide concrete ways to mea
 
 However, research has identified challenges in creating and setting appropriate, measurable goals that correspond to real business needs in software development contexts [[1]](#references). This underscores the importance of training and practice in formulating effective OKRs.
 
+### 6. Addressing Complexity in IT Projects
+
+While agile methodologies have gained popularity in software development for their flexibility and adaptability, they are not a panacea for all project management challenges. Research has shown that the root cause of failure in complex IT projects is often the inherent complexity itself, regardless of whether traditional or agile methodologies are employed [[7]](#references).
+
+OKRs offer a unique advantage in this context by enforcing a higher-level understanding of organizational goals and linking it to lower-level, individual execution. This approach helps teams navigate the complexities of IT projects by providing a clear direction while allowing for flexibility in implementation. Unlike pure agile approaches, which may lack long-term guidance, OKRs create a bridge between strategic objectives and day-to-day tasks, helping teams stay focused on what matters most even in highly complex and uncertain environments [[7]](#references).
+
 ## Implementing OKRs
 
 ### Setting OKRs
@@ -121,16 +127,20 @@ OKRs offer a powerful framework for setting ambitious goals, driving alignment, 
 
 Recent research has shown that when implemented effectively, OKRs can significantly enhance team performance, drive innovation, and improve overall employee satisfaction in software development organizations. They are particularly effective in managing dependencies in large-scale agile projects. However, successful implementation requires careful planning, consistent processes, and ongoing support and training [[1, 2, 5]](#references).
 
+By addressing the inherent complexity of IT projects through a structured yet flexible goal-setting framework, OKRs can help organizations navigate the challenges that often lead to project failure, providing a clear link between high-level strategy and day-to-day execution [[7]](#references).
+
 ## References
 
-[1] J. Butler, T. Zimmermann, and C. Bird, "Objectives and Key Results in Software Teams: Challenges, Opportunities and Impact on Development," in 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '24), April 14–20, 2024, Lisbon, Portugal. ACM, New York, NY, USA, 11 pages.
+[1] J. Butler, T. Zimmermann, and C. Bird, "Objectives and Key Results in Software Teams: Challenges, Opportunities and Impact on Development," in 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '24), April 14–20, 2024, Lisbon, Portugal. ACM, New York, NY, USA. [doi: 10.1145/3639477.3639747](https://doi.org/10.1145/3639477.3639747)
 
-[2] J. M. Criado et al., "Exploring the Effectiveness of OKRs in Enhancing Company Objectives: A Comparative Study," IEEE Engineering Management Review, 2023.
+[2] J. M. Criado et al., "Exploring the Effectiveness of OKRs in Enhancing Company Objectives: A Comparative Study," IEEE Engineering Management Review, 2023. [doi: 10.1109/EMR.2024.3426327)(https://doi.org/10.1109/EMR.2024.3426327)
 
-[3] B. Zierock, M. Blatz, and K. Karcher, "Team-Centric Innovation: The Role of Objectives and Key Results (OKRs) in Managing Complex and Challenging Projects," Creativity, Innovation and Entrepreneurship, vol. 125, pp. 22–33, 2024.
+[3] B. Zierock, M. Blatz, and K. Karcher, "Team-Centric Innovation: The Role of Objectives and Key Results (OKRs) in Managing Complex and Challenging Projects," Creativity, Innovation and Entrepreneurship, vol. 125, pp. 22–33, 2024. [doi: 10.54941/ahfe1004717](http://doi.org/10.54941/ahfe1004717)
 
 [4] R. Sparks, "OKRs: The Ultimate Guide," Atlassian. [Online]. Available: https://www.atlassian.com/agile/agile-at-scale/okr. [Accessed: Sept. 26, 2024].
 
-[5] H. Vedal, V. Stray, M. Berntzen, and N. B. Moe, "Managing Dependencies in Large-Scale Agile," in XP 2021 Workshops, LNBIP, vol. 426, 2021, pp. 52–61.
+[5] H. Vedal, V. Stray, M. Berntzen, and N. B. Moe, "Managing Dependencies in Large-Scale Agile," in XP 2021 Workshops, LNBIP, vol. 426, 2021, pp. 52–61. [doi: 10.1007/978-3-030-88583-0_6](https://doi.org/10.1007/978-3-030-88583-0_6)
 
-[6] B. Laker, "From Vision to Reality: How OKRs Are Reshaping Team Goals in 2024," MIT Sloan Management Review, Jan. 2024.
+[6] B. Laker, "From Vision to Reality: How OKRs Are Reshaping Team Goals in 2024," MIT Sloan Management Review, Jan. 2024. Available: https://sloanreview.mit.edu/article/from-vision-to-reality-how-okrs-are-reshaping-team-goals-in-2024/. [Accessed: Sept. 26, 2024].
+
+[7] K. M. Whitney and C. B. Daniels, "The Root Cause of Failure in Complex IT Projects: Complexity Itself," Procedia Computer Science, vol. 20, pp. 325-330, 2013. [doi: 10.1016/j.procs.2013.09.280](https://doi.org/10.1016/j.procs.2013.09.280)

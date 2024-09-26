@@ -133,7 +133,7 @@ By addressing the inherent complexity of IT projects through a structured yet fl
 
 [1] J. Butler, T. Zimmermann, and C. Bird, "Objectives and Key Results in Software Teams: Challenges, Opportunities and Impact on Development," in 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '24), April 14–20, 2024, Lisbon, Portugal. ACM, New York, NY, USA. [doi: 10.1145/3639477.3639747](https://doi.org/10.1145/3639477.3639747)
 
-[2] J. M. Criado et al., "Exploring the Effectiveness of OKRs in Enhancing Company Objectives: A Comparative Study," IEEE Engineering Management Review, 2023. [doi: 10.1109/EMR.2024.3426327)(https://doi.org/10.1109/EMR.2024.3426327)
+[2] J. M. Criado et al., "Exploring the Effectiveness of OKRs in Enhancing Company Objectives: A Comparative Study," IEEE Engineering Management Review, 2023. [doi: 10.1109/EMR.2024.3426327](https://doi.org/10.1109/EMR.2024.3426327)
 
 [3] B. Zierock, M. Blatz, and K. Karcher, "Team-Centric Innovation: The Role of Objectives and Key Results (OKRs) in Managing Complex and Challenging Projects," Creativity, Innovation and Entrepreneurship, vol. 125, pp. 22–33, 2024. [doi: 10.54941/ahfe1004717](http://doi.org/10.54941/ahfe1004717)
 

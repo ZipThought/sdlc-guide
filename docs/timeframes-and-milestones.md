@@ -102,5 +102,9 @@ Throughout this process, higher-level OKRs guide the creation of lower-level OKR
 
 - **Shorter Projects** (1-2 months): May focus on critical backend improvements or specific frontend features, aligning closely with immediate Product OKRs.
 - **Longer Projects** (6+ months): May involve major architectural changes, database migrations, or comprehensive frontend rewrites. OKRs would be adjusted quarterly while maintaining focus on long-term goals.
+- **Plan Enough**: While there is tendency to minimize planning, research show that most of successful projects use about 25% time for planning [[1]](#references), above 15% commonly reported. Hence, we should aim to use between 15% time for OKR setting and expect about 10% spread out during the execution, e.g. sprint planning.
 
 Remember, this structure is flexible and should be adapted to suit the specific needs of each project. The key is maintaining a balance between frontend and backend development while ensuring all layers of OKRs remain aligned.
+
+## References
+[1] P. Serrador and R. Turner, “What is Enough Planning? Results From a Global Quantitative Study,” IEEE Trans. Eng. Manage., vol. 62, no. 4, pp. 462–474, Nov. 2015, doi: [10.1109/TEM.2015.2448059](https://doi.org/10.1109/TEM.2015.2448059).
